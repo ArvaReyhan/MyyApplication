@@ -21,7 +21,7 @@
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:lines="1"
-        tools:ignore="SpeakableTextPresentCheck,TouchTargetSizeCheck"
+        tools:ignore="LabelFor,SpeakableTextPresentCheck,TouchTargetSizeCheck"
         android:importantForAutofill="no" />
 
     <TextView
@@ -35,7 +35,7 @@
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:lines="1"
-        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck"
+        tools:ignore="LabelFor,SpeakableTextPresentCheck,TouchTargetSizeCheck"
         android:importantForAutofill="no" />
 
     <TextView
@@ -49,7 +49,7 @@
         android:layout_height="wrap_content"
         android:inputType="numberDecimal"
         android:lines="1"
-        tools:ignore="TouchTargetSizeCheck,SpeakableTextPresentCheck"
+        tools:ignore="LabelFor,SpeakableTextPresentCheck,TouchTargetSizeCheck"
         android:importantForAutofill="no" />
 
     <Button
